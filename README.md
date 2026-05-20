@@ -74,8 +74,8 @@
 ## 开发信息
 
 - **版本**：1.0
-- **作者**：洪旭涛
-- **联系方式**：hxt@uoes.edu.kg
+- **作者**：hongxt
+- **联系方式**：
 - **技术栈**：Python + ttkbootstrap + FFmpeg
 
 ## 许可证
